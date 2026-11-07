@@ -1,0 +1,7 @@
+"sample","group","median_expression","mean_expression"
+"CISD1","Normal",8.02505,8.08497807017544
+"CISD1","Tumor",8.389,8.3752515952598
+"CISD2","Normal",8.6172,8.65349035087719
+"CISD2","Tumor",9.1864,9.22019917958067
+"CISD3","Normal",9.1207,9.16979385964912
+"CISD3","Tumor",9.7495,9.81200264357338
